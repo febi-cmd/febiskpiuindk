@@ -1,0 +1,7 @@
+{
+  "name": "E-SKPI FEBI",
+  "description": "Sistem Informasi Penerbitan Surat Keterangan Pendamping Ijazah (SKPI) khusus untuk Fakultas Ekonomi dan Bisnis Islam (FEBI). Mendukung alur kerja Mahasiswa, Program Studi, dan Operator.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
